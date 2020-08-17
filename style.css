@@ -1,0 +1,121 @@
+body {
+  /* text-align: center; */
+  background-color: black;
+}
+
+
+/* Banner List class styles */
+
+#bannerList {
+
+  text-align: center;
+
+}
+#bannerList ul {
+  text-align: right;
+
+}
+
+#bannerList li{
+
+  display: inline-block;
+  margin-top: 20px;
+
+}
+
+.topBanner {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.portfolio {
+  width: 100%;
+
+}
+.portfolio video {
+  height: auto;
+  width: 350px;
+  margin-top: 80px;
+
+}
+
+#carouselExampleIndicators {
+  margin-top: 50px;
+}
+
+#contact {
+  background-color: gold;
+  text-align: center;
+}
+
+#about {
+  background-color: gold;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#about .servicesInfo {
+
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+font-size: 25px;
+font-weight: bolder;
+font-style: italic;
+font-family: fantasy;
+}
+
+#about .servicesInfo li {
+
+  display: block;
+}
+
+#contact .emailForm{
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
+
+#contact .emailForm textarea {
+  width: 300px;
+}
+
+.contact .form-signin {
+  text-align: right;
+
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  margin-top: 15px;
+  text-align: right;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.form-signin .form-control lower {
+  position: relative;
+  box-sizing: border-box;
+  height: 40px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+
+.bottomArea {
+  text-align: center;
+  padding: auto;
+}
